@@ -1,0 +1,191 @@
+C:\Users\MsiGrib\Desktop\HRM\HRM\obj\Debug\HRM.csproj.AssemblyReference.cache
+C:\Users\MsiGrib\Desktop\HRM\HRM\obj\Debug\HRM.csproj.SuggestedBindingRedirects.cache
+C:\Users\MsiGrib\Desktop\HRM\HRM\obj\Debug\HRM.GUI.Forms.adress_f.resources
+C:\Users\MsiGrib\Desktop\HRM\HRM\obj\Debug\HRM.GUI.Forms.signup_f.resources
+C:\Users\MsiGrib\Desktop\HRM\HRM\obj\Debug\HRM.Properties.Resources.resources
+C:\Users\MsiGrib\Desktop\HRM\HRM\obj\Debug\HRM.csproj.GenerateResource.cache
+C:\Users\MsiGrib\Desktop\HRM\HRM\obj\Debug\HRM.csproj.CoreCompileInputs.cache
+C:\Users\MsiGrib\Desktop\HRM\HRM\bin\Debug\HRM.exe.config
+C:\Users\MsiGrib\Desktop\HRM\HRM\bin\Debug\HRM.exe
+C:\Users\MsiGrib\Desktop\HRM\HRM\bin\Debug\HRM.pdb
+C:\Users\MsiGrib\Desktop\HRM\HRM\bin\Debug\EntityFramework.dll
+C:\Users\MsiGrib\Desktop\HRM\HRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MsiGrib\Desktop\HRM\HRM\bin\Debug\EntityFramework.xml
+C:\Users\MsiGrib\Desktop\HRM\HRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MsiGrib\Desktop\HRM\HRM\obj\Debug\HRM.csproj.CopyComplete
+C:\Users\MsiGrib\Desktop\HRM\HRM\obj\Debug\HRM.exe
+C:\Users\MsiGrib\Desktop\HRM\HRM\obj\Debug\HRM.pdb
+C:\Users\MsiGrib\Desktop\HRM\HRM\obj\Debug\HRM.GUI.Forms.main_f.resources
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\bin\Debug\HRM.exe.config
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\bin\Debug\HRM.exe
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\bin\Debug\HRM.pdb
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\bin\Debug\EntityFramework.dll
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\bin\Debug\Spire.Doc.dll
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\bin\Debug\EntityFramework.xml
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\bin\Debug\Spire.Doc.xml
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.csproj.AssemblyReference.cache
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.csproj.SuggestedBindingRedirects.cache
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.csproj.ResolveComReference.cache
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.GUI.Forms.add_worker.resources
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.GUI.Controls_Form.all_workers.resources
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.GUI.Forms.adress_f.resources
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.GUI.Forms.main_f.resources
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.GUI.Forms.signup_f.resources
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.Properties.Resources.resources
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.csproj.GenerateResource.cache
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.csproj.CoreCompileInputs.cache
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.csproj.CopyComplete
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.exe
+C:\Users\MsiGrib\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.pdb
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\bin\Debug\HRM.exe.config
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\bin\Debug\HRM.exe
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\bin\Debug\HRM.pdb
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\bin\Debug\Spire.Doc.dll
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\bin\Debug\Spire.Doc.xml
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.GUI.Forms.add_worker.resources
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.GUI.Controls_Form.all_workers.resources
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.GUI.Forms.adress_f.resources
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.GUI.Forms.main_f.resources
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.GUI.Forms.signup_f.resources
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.Properties.Resources.resources
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.csproj.GenerateResource.cache
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.csproj.CopyComplete
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.exe
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.pdb
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.GUI.Controls_Form.profile_worker.resources
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.GUI.Controls_Form.search_worker_controller.resources
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.GUI.Controls.progress_bar.resources
+C:\Users\User\Desktop\HRM_Main\HRM\HRM\obj\Debug\HRM.GUI.Controls.derectory_worker.resources
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\bin\Debug\HRM.exe.config
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\bin\Debug\HRM.exe
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\bin\Debug\HRM.pdb
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\bin\Debug\EntityFramework.dll
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\bin\Debug\Spire.Doc.dll
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\bin\Debug\EntityFramework.xml
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\bin\Debug\Spire.Doc.xml
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.csproj.AssemblyReference.cache
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.csproj.ResolveComReference.cache
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls.derectory_worker.resources
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls.progress_bar.resources
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Forms.add_worker.resources
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls_Form.all_workers.resources
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls_Form.profile_worker.resources
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls_Form.search_worker_controller.resources
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Forms.adress_f.resources
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Forms.main_f.resources
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Forms.signup_f.resources
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.Properties.Resources.resources
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.csproj.GenerateResource.cache
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.csproj.CoreCompileInputs.cache
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.csproj.CopyComplete
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.exe
+C:\Users\Hola1\OneDrive\Рабочий стол\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.pdb
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\bin\Debug\HRM.exe.config
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\bin\Debug\HRM.exe
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\bin\Debug\HRM.pdb
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\bin\Debug\Spire.Doc.dll
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\bin\Debug\Spire.Doc.xml
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls.derectory_worker.resources
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls.progress_bar.resources
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Forms.add_worker.resources
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls_Form.all_workers.resources
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls_Form.profile_worker.resources
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls_Form.search_worker_controller.resources
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Forms.adress_f.resources
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Forms.main_f.resources
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Forms.signup_f.resources
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.Properties.Resources.resources
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.csproj.GenerateResource.cache
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.csproj.CopyComplete
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.exe
+C:\Users\User\Desktop\HRM_Main\Diplom\HRM\HRM\obj\Debug\HRM.pdb
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\HRM.exe.config
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\HRM.exe
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\HRM.pdb
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\Spire.Doc.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\Spire.Doc.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls.derectory_worker.resources
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls.progress_bar.resources
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Forms.add_worker.resources
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls_Form.all_workers.resources
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls_Form.profile_worker.resources
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls_Form.search_worker_controller.resources
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Forms.adress_f.resources
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Forms.auth_password_f.resources
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Forms.main_f.resources
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Forms.settings_f.resources
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Forms.signup_f.resources
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.Properties.Resources.resources
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.csproj.CopyComplete
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.exe
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.pdb
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Controls_Form.analitik_workers.resources
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.XtraReports.v17.2.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.DataAccess.v17.2.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\DevExpress.XtraReports.v17.2.xml
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\User\Desktop\Diplom\HRM\HRM\obj\Debug\HRM.GUI.Forms.redact_db_f.resources
